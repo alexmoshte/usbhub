@@ -1157,7 +1157,7 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=+5V|NetColor=clLime
+Net1=NetName=+5V|NetColor=clRed
 Net2=NetName=+VCC|NetColor=clAqua
 Net3=NetName=AVDD|NetColor=clBlue
 Net4=NetName=DM0|NetColor=clRed
@@ -1185,22 +1185,21 @@ Net25=NetName=NetU2_8|NetColor=clRed
 Net26=NetName=OVCUR1#|NetColor=$00000066
 Net27=NetName=PGANG|NetColor=clYellow
 Net28=NetName=PSELF|NetColor=$0000607F
-Net29=NetName=RESET#|NetColor=clFuchsia
-Net30=NetName=RST|NetColor=clFuchsia
-Net31=NetName=USB_0_D_N|NetColor=clRed
-Net32=NetName=USB_0_D_P|NetColor=clRed
-Net33=NetName=USB_1_D_N|NetColor=clRed
-Net34=NetName=USB_1_D_P|NetColor=clRed
-Net35=NetName=USB_1_DA_N|NetColor=clRed
-Net36=NetName=USB_1_DA_P|NetColor=clRed
-Net37=NetName=USB_1_DB_N|NetColor=clRed
-Net38=NetName=USB_1_DB_P|NetColor=clRed
-Net39=NetName=USB_1_DC_N|NetColor=clRed
-Net40=NetName=USB_1_DC_P|NetColor=clRed
-Net41=NetName=USB_1_DD_N|NetColor=clRed
-Net42=NetName=USB_1_DD_P|NetColor=clRed
-Net43=NetName=X1|NetColor=$000099FF
-Net44=NetName=X2|NetColor=$000099FF
+Net29=NetName=RREF|NetColor=clBlack
+Net30=NetName=USB_0_D_N|NetColor=clRed
+Net31=NetName=USB_0_D_P|NetColor=clRed
+Net32=NetName=USB_1_D_N|NetColor=clRed
+Net33=NetName=USB_1_D_P|NetColor=clRed
+Net34=NetName=USB_1_DA_N|NetColor=clRed
+Net35=NetName=USB_1_DA_P|NetColor=clRed
+Net36=NetName=USB_1_DB_N|NetColor=clRed
+Net37=NetName=USB_1_DB_P|NetColor=clRed
+Net38=NetName=USB_1_DC_N|NetColor=clRed
+Net39=NetName=USB_1_DC_P|NetColor=clRed
+Net40=NetName=USB_1_DD_N|NetColor=clRed
+Net41=NetName=USB_1_DD_P|NetColor=clRed
+Net42=NetName=X1|NetColor=$00AFB8E6
+Net43=NetName=X2|NetColor=$00AFB8E6
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

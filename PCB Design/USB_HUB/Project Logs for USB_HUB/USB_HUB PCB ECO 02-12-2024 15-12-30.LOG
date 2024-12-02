@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=PGANG Pin=A_ON-K
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=X1 Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=X2 Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=RESET# Pin=C14-2
+Removed Pin From Net: NetName=RESET# Pin=R5-1
+Removed Pin From Net: NetName=+5V Pin=R5-2
+Removed Pin From Net: NetName=PGANG Pin=R6-1
+Removed Pin From Net: NetName=DVDD Pin=R6-2
+Removed Pin From Net: NetName=DVDD Pin=R7-2
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=RESET# Pin=R8-2
+Removed Pin From Net: NetName=X1 Pin=U1-7
+Removed Pin From Net: NetName=X1 Pin=XTAL-1
+Removed Pin From Net: NetName=X2 Pin=XTAL-2
+Added Pin To Net: NetName=X2 Pin=U1-7
+Add Differential Pair: Number of nets in differential pair DM0 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DM1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DM2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DM3 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DM4 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DP0 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DP1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DP2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DP3 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DP4 is 1 instead of 2

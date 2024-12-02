@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=OVCUR1# Pin=R2-1
+Added Pin To Net: NetName=OVCUR1# Pin=R3-2
+Added Pin To Net: NetName=OVCUR1# Pin=U1-21
+Add Differential Pair: Number of nets in differential pair DM0 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DM1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DM2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DM3 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DM4 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DP0 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DP1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DP2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DP3 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DP4 is 1 instead of 2

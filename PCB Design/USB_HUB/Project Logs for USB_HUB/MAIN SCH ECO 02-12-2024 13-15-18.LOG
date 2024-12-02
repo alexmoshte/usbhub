@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=A_ON
+Change Component Designator: OldDesignator=X1 NewDesignator=XTAL
+Change Net Color : Net Name= RESET# Old Net Color=Fuchsia New Net Color=Default
+Change Net Color : Net Name= X1 Old Net Color=RGB(255, 153, 0) New Net Color=Default

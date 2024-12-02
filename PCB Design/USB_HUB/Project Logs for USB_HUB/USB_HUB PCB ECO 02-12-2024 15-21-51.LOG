@@ -1,0 +1,14 @@
+Change Component Description : Designator=J2A Old Description=Conn Data USB TypeA Socket 4Cnts RightAngle ThruHole White 1.57mmPCB New Description=Conn Data USB TypeA Socket 4Cnts RightAngle ThruHole White 1.57mmPCB | Amphenol FCI (Amphenol CS) 87520-0010BLF
+Change Component Description : Designator=J2B Old Description=Conn Data USB TypeA Socket 4Cnts RightAngle ThruHole White 1.57mmPCB New Description=Conn Data USB TypeA Socket 4Cnts RightAngle ThruHole White 1.57mmPCB | Amphenol FCI (Amphenol CS) 87520-0010BLF
+Change Component Description : Designator=J2C Old Description=Conn Data USB TypeA Socket 4Cnts RightAngle ThruHole White 1.57mmPCB New Description=Conn Data USB TypeA Socket 4Cnts RightAngle ThruHole White 1.57mmPCB | Amphenol FCI (Amphenol CS) 87520-0010BLF
+Change Component Description : Designator=J2D Old Description=Conn Data USB TypeA Socket 4Cnts RightAngle ThruHole White 1.57mmPCB New Description=Conn Data USB TypeA Socket 4Cnts RightAngle ThruHole White 1.57mmPCB | Amphenol FCI (Amphenol CS) 87520-0010BLF
+Add Differential Pair: Number of nets in differential pair DM0 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DM1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DM2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DM3 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DM4 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DP0 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DP1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DP2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DP3 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair DP4 is 1 instead of 2
