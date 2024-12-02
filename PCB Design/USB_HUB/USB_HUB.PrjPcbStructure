@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=MAIN.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=DWNSTRM_1|SchDesignator=DWNSTRM_1|FileName=DOWNSTREAM.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=DOWNSTREAM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=DWNSTRM_2|SchDesignator=DWNSTRM_2|FileName=DOWNSTREAM.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=DOWNSTREAM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=DWNSTRM_3|SchDesignator=DWNSTRM_3|FileName=DOWNSTREAM.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=DOWNSTREAM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=DWNSTRM_4|SchDesignator=DWNSTRM_4|FileName=DOWNSTREAM.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=DOWNSTREAM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=HOST|SchDesignator=HOST|FileName=HOST.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=HOST.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=ESD_DWNSTRM.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=PERIPHERAL.SchDoc|SheetNumber=5
