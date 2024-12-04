@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=+VCC Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=+VCC Pin=C16-2
+Removed Pin From Net: NetName=+VCC Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=PSELF Pin=J3-3
+Removed Pin From Net: NetName=+5V Pin=Q1-D
+Removed Pin From Net: NetName=MSFT Pin=Q1-G
+Removed Pin From Net: NetName=+VCC Pin=Q1-S
+Removed Pin From Net: NetName=+VCC Pin=R9-1
+Removed Pin From Net: NetName=PSELF Pin=R9-2
+Removed Pin From Net: NetName=MSFT Pin=R10-1
+Removed Pin From Net: NetName=PSELF Pin=R10-2
+Change Component Designator: OldDesignator=HOST NewDesignator=J1
+Change Component Description : Designator=J2A Old Description=Conn Data USB TypeA Socket 4Cnts RightAngle ThruHole White 1.57mmPCB New Description=Conn Data USB TypeA Socket 4Cnts RightAngle ThruHole White 1.57mmPCB | Amphenol FCI (Amphenol CS) 87520-0010BLF
+Change Component Description : Designator=J2B Old Description=Conn Data USB TypeA Socket 4Cnts RightAngle ThruHole White 1.57mmPCB New Description=Conn Data USB TypeA Socket 4Cnts RightAngle ThruHole White 1.57mmPCB | Amphenol FCI (Amphenol CS) 87520-0010BLF
+Change Component Description : Designator=J2C Old Description=Conn Data USB TypeA Socket 4Cnts RightAngle ThruHole White 1.57mmPCB New Description=Conn Data USB TypeA Socket 4Cnts RightAngle ThruHole White 1.57mmPCB | Amphenol FCI (Amphenol CS) 87520-0010BLF
+Change Component Description : Designator=J2D Old Description=Conn Data USB TypeA Socket 4Cnts RightAngle ThruHole White 1.57mmPCB New Description=Conn Data USB TypeA Socket 4Cnts RightAngle ThruHole White 1.57mmPCB | Amphenol FCI (Amphenol CS) 87520-0010BLF
+Added Component: Designator=C15(CAP_EEEHA0J101WR)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEE-HA0J101WR/Panasonic%20Electronic%20Components/view-part/2733110/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic Electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEE-HA0J101WR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/EEE-HA0J101WR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEE-HA0J101WR/Panasonic%20Electronic%20Components/view-part/2733110/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP_0805)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(CON-SOCJ-2155)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Gravitech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CON-SOCJ-2155"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SSM3J338R,LF-SOT23-F)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "2N7002NXAKR"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+VCC Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=+VCC Pin=C16-2
+Added Pin To Net: NetName=+VCC Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=PSELF Pin=J3-3
+Added Pin To Net: NetName=+5V Pin=Q1-D
+Added Pin To Net: NetName=MSFT Pin=Q1-G
+Added Pin To Net: NetName=+VCC Pin=Q1-S
+Added Pin To Net: NetName=+VCC Pin=R9-1
+Added Pin To Net: NetName=PSELF Pin=R9-2
+Added Pin To Net: NetName=MSFT Pin=R10-1
+Added Pin To Net: NetName=PSELF Pin=R10-2
+Change Net Name : Old Net Name=DM0 New Net Name=D0_N
+Change Net Name : Old Net Name=DM1 New Net Name=D1_N
+Change Net Name : Old Net Name=DM2 New Net Name=D2_N
+Change Net Name : Old Net Name=DM3 New Net Name=D3_N
+Change Net Name : Old Net Name=DM4 New Net Name=D4_N
+Change Net Name : Old Net Name=DP0 New Net Name=D0_P
+Change Net Name : Old Net Name=DP1 New Net Name=D1_P
+Change Net Name : Old Net Name=DP2 New Net Name=D2_P
+Change Net Name : Old Net Name=DP3 New Net Name=D3_P
+Change Net Name : Old Net Name=DP4 New Net Name=D4_P
+Change Class Name : Old Net Name=EX_POWER New Net Name=U_EX_POWER
+Added Differential Pair: Name=D0
+Added Differential Pair: Name=D1
+Added Differential Pair: Name=D2
+Added Differential Pair: Name=D3
+Added Differential Pair: Name=D4
+Change Room Name: Old Name=EX_POWER New Name=HOST
+Change Room Scope: Old Scope=InComponentClass('EX_POWER') New Scope=InComponentClass('HOST')
+Added Room: Name=ESD_DWNSTRM
+Added Room: Name=U_EX_POWER
+Added Room: Name=U_PERIPHERAL
