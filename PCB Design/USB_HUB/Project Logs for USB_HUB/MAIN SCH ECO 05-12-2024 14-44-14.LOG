@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=A_ON NewDesignator=ALL_ON
+Change Net Color : Net Name= GND Old Net Color=RGB(56, 118, 29) New Net Color=Lime

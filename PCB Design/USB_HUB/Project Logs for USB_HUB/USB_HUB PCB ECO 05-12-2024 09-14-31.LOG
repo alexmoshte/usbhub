@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=D1_N Pin=U2-1
+Removed Pin From Net: NetName=D2_N Pin=U2-2
+Removed Pin From Net: NetName=D3_N Pin=U2-3
+Removed Pin From Net: NetName=D4_N Pin=U2-4
+Removed Pin From Net: NetName=D4_P Pin=U2-5
+Removed Pin From Net: NetName=D3_P Pin=U2-6
+Removed Pin From Net: NetName=D2_P Pin=U2-7
+Removed Pin From Net: NetName=D1_P Pin=U2-8
+Removed Pin From Net: NetName=GND Pin=U2-9
+Removed Member From Class: ClassName=ESD_DWNSTRM Member=U2
+Added Component: Designator=B2(SON95P300X300X80-7N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdfserv.maximintegrated.com/en/ds/MAX3202E-MAX3206E.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX3202EETT+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX3202EETTT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX3202EETT%2bT?qs=8wHch9UpSvZOsR663CaSvw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B3(SON95P300X300X80-7N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdfserv.maximintegrated.com/en/ds/MAX3202E-MAX3206E.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX3202EETT+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX3202EETTT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX3202EETT%2bT?qs=8wHch9UpSvZOsR663CaSvw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B4(SON95P300X300X80-7N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdfserv.maximintegrated.com/en/ds/MAX3202E-MAX3206E.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX3202EETT+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX3202EETTT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX3202EETT%2bT?qs=8wHch9UpSvZOsR663CaSvw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B5(SON95P300X300X80-7N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://pdfserv.maximintegrated.com/en/ds/MAX3202E-MAX3206E.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX3202EETT+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX3202EETTT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX3202EETT%2bT?qs=8wHch9UpSvZOsR663CaSvw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=B2-1
+Added Pin To Net: NetName=D1_P Pin=B2-3
+Added Pin To Net: NetName=GND Pin=B2-4
+Added Pin To Net: NetName=D1_N Pin=B2-6
+Added Pin To Net: NetName=GND Pin=B2-7
+Added Pin To Net: NetName=+5V Pin=B3-1
+Added Pin To Net: NetName=D2_P Pin=B3-3
+Added Pin To Net: NetName=GND Pin=B3-4
+Added Pin To Net: NetName=D2_N Pin=B3-6
+Added Pin To Net: NetName=GND Pin=B3-7
+Added Pin To Net: NetName=+5V Pin=B4-1
+Added Pin To Net: NetName=D3_P Pin=B4-3
+Added Pin To Net: NetName=GND Pin=B4-4
+Added Pin To Net: NetName=D3_N Pin=B4-6
+Added Pin To Net: NetName=GND Pin=B4-7
+Added Pin To Net: NetName=+5V Pin=B5-1
+Added Pin To Net: NetName=D4_P Pin=B5-3
+Added Pin To Net: NetName=GND Pin=B5-4
+Added Pin To Net: NetName=D4_N Pin=B5-6
+Added Pin To Net: NetName=GND Pin=B5-7
+Added Member To Class: ClassName=ESD_DWNSTRM Member=Component B2 MAX3202EETT+T
+Added Member To Class: ClassName=ESD_DWNSTRM Member=Component B3 MAX3202EETT+T
+Added Member To Class: ClassName=ESD_DWNSTRM Member=Component B4 MAX3202EETT+T
+Added Member To Class: ClassName=ESD_DWNSTRM Member=Component B5 MAX3202EETT+T
+Added Member To Class: ClassName=U_EX_POWER Member=Component C15 100u
+Added Member To Class: ClassName=U_EX_POWER Member=Component C16 C0805
+Added Member To Class: ClassName=U_EX_POWER Member=Component J3 CON-SOCJ-2155
+Added Member To Class: ClassName=U_EX_POWER Member=Component Q1 2N7002NXAKR
+Added Member To Class: ClassName=U_EX_POWER Member=Component R9 510R
+Added Member To Class: ClassName=U_EX_POWER Member=Component R10 4.7K
+Added Room: Name=DWNSTRM_1
+Added Room: Name=DWNSTRM_2
+Added Room: Name=DWNSTRM_3
+Added Room: Name=DWNSTRM_4
+Added Room: Name=ESD_DWNSTRM
+Added Room: Name=HOST
+Added Room: Name=U_PERIPHERAL
